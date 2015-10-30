@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TipStatChallenge</string>
+    <string name="search_query_hint">Search (by title, source)</string>
+    <string name="asian">Asian</string>
+    <string name="african_americans">African Americans</string>
+    <string name="asian_americans">Asian Americans</string>
+    <string name="european">European</string>
+    <string name="british">British</string>
+    <string name="jewish">Jewish</string>
+    <string name="latino">Latino</string>
+    <string name="native_american">Native American</string>
+    <string name="arabic">Arabic</string>
+</resources>
